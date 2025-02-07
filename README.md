@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdm-7" alt="iamdm-7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamdm_7" target="blank"><img src="https://img.shields.io/twitter/follow/iamdm_7?logo=twitter&style=for-the-badge" alt="iamdm_7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/idakshmalhotra" target="blank"><img src="https://img.shields.io/twitter/follow/iamdm_7?logo=twitter&style=for-the-badge" alt="iamdm_7" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [dakshmalhotra.xyz](dakshmalhotra.xyz)
 
